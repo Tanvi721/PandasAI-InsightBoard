@@ -10,7 +10,19 @@ This project demonstrates how natural language intelligence can be combined with
 
 The dashboard allows users to explore datasets, generate KPIs, visualize trends, and interact with data using AI-powered queries — making it ideal for **data analytics portfolios, academic projects, and BI use cases**.
 
----
+
+
+# Output
+<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/56b58dde-e707-4b86-81d5-a9fd43d928bd" />
+<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/11e1b910-3992-4d30-887c-8d4902580f82" />
+<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/6b271fc7-8623-4673-a2fa-d6b84b3aacf0" />
+<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/078299f9-a05a-4457-8f20-e4aeb78af738" />
+<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/43900582-8f22-4bdc-8739-d58da61485fe" />
+
+
+
+
+
 
 ## ✨ Features
 
