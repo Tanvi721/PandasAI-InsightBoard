@@ -115,8 +115,8 @@ You are free to use, modify, and distribute this project.
 
 # 👩‍💻 Author
 
-**Tanvi Barve**
-**Aspiring Data Analyst**
++ **Tanvi Barve**
++ **Aspiring Data Analyst**
 
 
 # ⭐ Support
